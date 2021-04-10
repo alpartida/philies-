@@ -2,6 +2,9 @@
 
 This projects uses react and node.js to display a qualifying offer for an upcoming MLB free agent using the data provided [here](https://questionnaire-148920.appspot.com/swe/data.html)
 
+## To Use  App
+Please clone repo and then run yarn install in command line followed by a yarn start command 
+
 ## Available Scripts
 
 In the project directory, you can run:
